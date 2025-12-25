@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React js,html,css(tailwind)**
 
-- 📫 How to reach me **czanmansingh@gmail.com**
+- 📫 How to reach me **shrijanmansinghh@gmail.com**
 
 
 
